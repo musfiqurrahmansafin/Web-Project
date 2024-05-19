@@ -1,0 +1,1 @@
+<?php /**PATH E:\Downloads\cricket-scorecard\resources\views/layouts/footer.blade.php ENDPATH**/ ?>
